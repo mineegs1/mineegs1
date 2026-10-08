@@ -1,6 +1,6 @@
-# Hi! 👋 I'm Marco
+### Hey there! 👋
 
-**Computer Engineering Student | Aspiring Application Security Engineer**
+I'm **Marco**, a **Computer Engineering Student based in Italy | Aspiring Application Security Engineer**
 
 Third-year Computer Engineering student at Università della Calabria (UNICAL). 
 
@@ -13,18 +13,12 @@ Third-year Computer Engineering student at Università della Calabria (UNICAL).
 - `Java`
 - `Python`
 
-**Focus Areas:**
+**Focus Areas & Current Learning:**
+- Application Security (AppSec) & Secure Coding
+- Offensive Security Foundations
 - Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
 - Operating Systems Architecture
 
----
-
-### 🎓 Education
-
-- **B.Sc. in Computer Engineering** @ Università della Calabria (UNICAL)
-
----
 
 ### ⚡ GitHub Stats
 
